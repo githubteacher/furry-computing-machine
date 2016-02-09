@@ -1,2 +1,2 @@
-select * from customers
+select * from customers WHERE...
 -- first query
