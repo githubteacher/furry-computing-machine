@@ -3,3 +3,4 @@
 - Beer
 - Fish Sticks
 - Rice Crispies
+- sushi
