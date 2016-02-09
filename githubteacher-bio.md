@@ -1,2 +1,2 @@
 ## Background
-- born on the interwebs
+Newbie to GitHub
