@@ -5,3 +5,4 @@ Intentionally .txt rather than .md
 Intentionally .txt rather than .md
 Intentionally .txt rather than .md
 six lines above, seven total
+THis is a new line -- line 8
